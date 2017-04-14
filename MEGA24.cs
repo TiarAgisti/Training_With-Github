@@ -7,11 +7,11 @@ Place, Date of Birth	: Tangerang , February 24th, 1993
 Ages					: 24 years old
 Nationality				: Indonesia
 Height					: 165 cm
-Weight					: 48 kg
+Weight					: 47 kg
 Religions				: Moeslem
 Address					: stay here
 Zip Code				: 15124
-Hobby					: singing
+Hobby					: Singing
 Phone Number			: 085691465092
 Email Address			: princesslitle24@gmail.com
-Job/Work				: Penjual sandal jepit 	
+Job/Work				: Penjual sandal jepit		
