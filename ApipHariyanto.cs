@@ -3,7 +3,7 @@ MY BIODATA
 Full Name				: Apip Hariyanto
 NickName				: Apip
 Gender					: Male
-Place, Date of Birth	: Serang , October 3th, 1993
+Place, Date of Birth	: Serang , Sept 3th, 1993
 Ages					: 24 years old
 Nationality				: Indonesia
 Height					: 171 cm
